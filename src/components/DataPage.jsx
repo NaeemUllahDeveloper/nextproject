@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 // import { useParams } from 'react-router-dom';
 import logo from '../logo-2.png';
 import logo2 from '../logo_default_dark.png';
+import jsonData from "../assets/data.json"
 
 import { useLocation } from 'react-router-dom';
 
@@ -15,14 +16,7 @@ function DataPage() {
     const refNo = queryParams.get('ref_no');
     const bruteForceKey = queryParams.get('BruteForceKey');
     useEffect(() => {
-        fetch('/data.json')
-            .then((response) => response.json())
-            .then((jsonData) => {
-                // Set the data based on ref_no
-                const itemData = jsonData[bruteForceKey];
-                setData(itemData);
-            })
-            .catch((error) => console.error('Error fetching the data:', error));
+        setData(jsonData[bruteForceKey]);
     });
 
 
