@@ -75,17 +75,18 @@ function DataPage() {
                                     </td>
                                 </tr>
                             </table>
-                            <p>Başvuru No:<b>48540/2024</b></p>
-                            <p>Başvuru Tipi:<b>Ön İzin Başvurusu</b></p>
-                            <p>Çalışan (İşçi) Ad Soyad:<b>MOHAN UDDIN</b></p>
-                            <p>Çalışan (İşçi) Pasaport No:<b>A07747513</b></p>
-                            <p>Çalışan (İşçi) TC Kimlik No:<b></b></p>
-                            <p>Çalışan(İşçi) Anne Adı:<b>LOTEFUN NAHAR</b></p>
-                            <p>Çalışan(İşçi) Baba Adı:<b>AIYUB ALI</b></p>
-                            <p>Belge Geçerlilik Başlangıç Tarihi:<b>3.04.2024</b></p>
-                            <p>Belge Geçerlilik Bitiş Tarihi:<b>3.05.2024</b></p>
-                            <p>Onay Durumu:<b>Evet</b></p>
-                            <p>Onay Tarihi:<b>21.03.2024</b></p>
+                            Başvuru No:<b>{data.application_no}/2024</b><br />
+                            Başvuru Tipi:<b>Ön İzin Başvurusu</b><br />
+                            Çalışan (İşçi) Ad Soyad:<b>{data.name}</b><br />
+                            Çalışan (İşçi) Pasaport No:<b>{data.passport_no}</b><br />
+                            Çalışan (İşçi) TC Kimlik No:<b></b><br />
+                            Çalışan(İşçi) Anne Adı:<b> {data.mother_name}</b><br />
+                            Çalışan(İşçi) Baba Adı:<b> {data.father_name}</b><br />
+                            <br /><br />
+                            Belge Geçerlilik Başlangıç Tarihi:<b>{data.validity_start_date}</b><br />
+                            Belge Geçerlilik Bitiş Tarihi:<b>{data.validity_end_date}</b><br />
+                            Onay Durumu:<b>Evet</b><br />
+                            Onay Tarihi:<b>{data.approval_date}</b><br />
                         </div>
                     </div>
                 </div>
