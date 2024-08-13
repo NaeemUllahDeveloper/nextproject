@@ -1,37 +1,25 @@
 import React, { useEffect, useState } from 'react';
-import { useParams } from 'react-router-dom';
+// import { useParams } from 'react-router-dom';
 import logo from '../logo-2.png';
 import logo2 from '../logo_default_dark.png';
 
+import { useLocation } from 'react-router-dom';
 
 
 function DataPage() {
     // const { ref_no } = useParams();  // Get the ref_no from the URL
     const [data, setData] = useState(null);
-
-
-
-
-
-
-
+    const { search } = useLocation();
+    const queryParams = new URLSearchParams(search);
+    const eqeq = queryParams.get('eqeq');
+    const refNo = queryParams.get('ref_no');
+    const bruteForceKey = queryParams.get('BruteForceKey');
     useEffect(() => {
-        // Split by "?" to separate different sections
-        const search = window.location.search;
-        const parts = search.split('?');
-
-        // Find the part containing 'ref_no'
-        const refNoPart = parts.find(part => part.includes('BruteForceKey'));
-
-        // Extract the ref_no value
-        if (refNoPart) {
-            var refNoValue = new URLSearchParams(refNoPart).get('BruteForceKey');
-        }
         fetch('/data.json')
             .then((response) => response.json())
             .then((jsonData) => {
                 // Set the data based on ref_no
-                const itemData = jsonData[refNoValue];
+                const itemData = jsonData[bruteForceKey];
                 setData(itemData);
             })
             .catch((error) => console.error('Error fetching the data:', error));
