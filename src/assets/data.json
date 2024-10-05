@@ -20,5 +20,16 @@
         "validity_end_date": "12.09.2024",
         "approval_date": "07.11.2024",
         "img": "/58637.png"
+    },
+    "72547": {
+        "application_no": "72547",
+        "name": "MUHAMMAD KAMRAN",
+        "passport_no": "HR4221581",
+        "mother_name": "NOOR HAYYAT BIBI",
+        "father_name": "SHAHI IMRAN",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72547.jpeg"
     }
 }
