@@ -21,6 +21,83 @@
         "approval_date": "07.11.2024",
         "img": "/58637.png"
     },
+    "72546": {
+        "application_no": "72546",
+        "name": "HAROON UR REHMAN",
+        "passport_no": "TB9157871",
+        "mother_name": "DILSHAD BEGUM",
+        "father_name": "JAN SAID",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "12.12.2024",
+        "approval_date": "07.10.2024",
+        "img": "/72546.png"
+    },
+    "72545": {
+        "application_no": "72546",
+        "name": "MOHAMMAD RAYHAN",
+        "passport_no": "TB9157871",
+        "mother_name": "SHIRAJ KATUN",
+        "father_name": "ABUL HOSSAIN",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "12.12.2024",
+        "approval_date": "07.10.2024",
+        "img": "/72545.png"
+    },
+    "72541": {
+        "application_no": "72541",
+        "name": "MD BACHO MIA",
+        "passport_no": "A01638385",
+        "mother_name": "ARIFA KHATUN",
+        "father_name": "MD MAIJ UDDIN",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "12.12.2024",
+        "approval_date": "07.10.2024",
+        "img": "/72541.png"
+    },
+    "72542": {
+        "application_no": "72542",
+        "name": "MOHAMMED ALAM HOSSAIN",
+        "passport_no": "A01597321",
+        "mother_name": "MAIFULER NESSA",
+        "father_name": "ALI AKBAR",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "12.12.2024",
+        "approval_date": "07.10.2024",
+        "img": "/72542.png"
+    },
+    "72543": {
+        "application_no": "72543",
+        "name": "MOSHAROB BHUIYAN",
+        "passport_no": "A13010816",
+        "mother_name": "FEROZA",
+        "father_name": "NURUL ISLAM",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "12.12.2024",
+        "approval_date": "07.10.2024",
+        "img": "/72543.png"
+    },
+    "72544": {
+        "application_no": "72544",
+        "name": "MD RASHEL",
+        "passport_no": "A08261687",
+        "mother_name": "SHAHANARA BEGUM",
+        "father_name": "ABUL BASAR",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "12.12.2024",
+        "approval_date": "07.10.2024",
+        "img": "/72544.png"
+    },
+    "72548": {
+        "application_no": "72548",
+        "name": "ABU BOKKOR",
+        "passport_no": "EL0703484",
+        "mother_name": "KANSON BIBI",
+        "father_name": "MD SHAH ALAM",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "12.12.2024",
+        "approval_date": "07.10.2024",
+        "img": "/72548.png"
+    },
     "72547": {
         "application_no": "72547",
         "name": "MUHAMMAD KAMRAN",
