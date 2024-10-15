@@ -1187,15 +1187,92 @@
         "approval_date": "11.10.2024",
         "img": "/72646.jpg"
     },
-    "72647": {
-        "application_no": "72647",
-        "name": "MD ASADUL HANG",
-        "passport_no": "A08554301",
-        "mother_name": "SAFIA BEGUM",
-        "father_name": "MD SPON HANG",
+    "72648": {
+        "application_no": "72648",
+        "name": "MUHAMMAD ASIF",
+        "passport_no": "GD1889251",
+        "mother_name": "ZARINA BEGUM",
+        "father_name": "MUHAMMAD IQBAL",
         "validity_start_date": "12.11.2024",
         "validity_end_date": "11.12.2024",
         "approval_date": "11.10.2024",
-        "img": "/72647.jpg"
+        "img": "/72648.jpg"
+    },
+    "72649": {
+        "application_no": "72649",
+        "name": "MUHAMMAD ADNAN KHURSHID",
+        "passport_no": "UX4131013",
+        "mother_name": "YASMIN AKHTAR",
+        "father_name": "MUHAMMAD KHURSHID",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72649.jpg"
+    },
+    "72650": {
+        "application_no": "72650",
+        "name": "ZEESHAN RASHID",
+        "passport_no": "KB9840781",
+        "mother_name": "NAILA AKRAM",
+        "father_name": "MOHAMMAD RASHID",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72650.jpg"
+    },
+    "72651": {
+        "application_no": "72651",
+        "name": "KALEEM ABBAS",
+        "passport_no": "LR1019512",
+        "mother_name": "NASEEM BEGUM",
+        "father_name": "HAJI MUHAMMAD SALEEM",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72651.jpg"
+    },
+    "72652": {
+        "application_no": "72652",
+        "name": "FAIZAN ALI",
+        "passport_no": "VF1819052",
+        "mother_name": "AMNA SHAHEEN",
+        "father_name": "MUHAMMD FAROOQ",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72652.jpg"
+    },
+    "72653": {
+        "application_no": "72653",
+        "name": "CHAUDHARY MUHAMMAD LATIF",
+        "passport_no": "AQ8486683",
+        "mother_name": "MUKHTIAR BIBI",
+        "father_name": "CHAUDHARY LAL DIN",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72653.jpg"
+    },
+    "72654": {
+        "application_no": "72654",
+        "name": "AHSAN ALI",
+        "passport_no": "JA1829882",
+        "mother_name": "NASREEN BIBI",
+        "father_name": "MUKHTAR AHMED",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72654.jpg"
+    },
+    "72655": {
+        "application_no": "72655",
+        "name": "ABDULLAH NAEEM DAR",
+        "passport_no": "AZ7995721",
+        "mother_name": "ASRA NAEEM",
+        "father_name": "NAEEM MUNSIF",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72655.jpg"
     }
 }
