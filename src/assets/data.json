@@ -1274,5 +1274,60 @@
         "validity_end_date": "11.12.2024",
         "approval_date": "11.10.2024",
         "img": "/72655.jpg"
+    },
+    "72656": {
+        "application_no": "72656",
+        "name": "ABU KALAM KHALIFA",
+        "passport_no": "A15686222",
+        "mother_name": "KULSUM BEGUM",
+        "father_name": "SEKEN KHALIFA",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72656.jpg"
+    },
+    "72657": {
+        "application_no": "72657",
+        "name": "AJEM MIA",
+        "passport_no": "A02730134",
+        "mother_name": "JORINA BEGUM",
+        "father_name": "AMAD MIA",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72657.jpg"
+    },
+    "72658": {
+        "application_no": "72658",
+        "name": "MD SHAHIN",
+        "passport_no": "A04323100",
+        "mother_name": "JALEKHA",
+        "father_name": "TALEB MIA",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72658.jpg"
+    },
+    "72659": {
+        "application_no": "72659",
+        "name": "MD. MASUD RANA",
+        "passport_no": "A07651668",
+        "mother_name": "RAHIMA",
+        "father_name": "ABDUS SAMAD",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72659.jpg"
+    },
+    "72660": {
+        "application_no": "72660",
+        "name": "MD ALI NUR",
+        "passport_no": "A05132731",
+        "mother_name": "MST ALFIN NECHA",
+        "father_name": "MD ABDUL KHALIK",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72660.jpg"
     }
 }
