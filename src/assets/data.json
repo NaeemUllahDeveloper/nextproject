@@ -1439,5 +1439,126 @@
         "validity_end_date": "11.12.2024",
         "approval_date": "11.10.2024",
         "img": "/72670.jpg"
+    },
+    "72671": {
+        "application_no": "72671",
+        "name": "MD RASEL",
+        "passport_no": "A00219964",
+        "mother_name": "MST RUBIA BEGUM",
+        "father_name": "ABDUL ROHIM",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72671.jpg"
+    },
+    "72672": {
+        "application_no": "72672",
+        "name": "MD ALI HOSEN",
+        "passport_no": "A07322545",
+        "mother_name": "NAHAR BANU",
+        "father_name": "ROBIUL ALAM",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72672.jpg"
+    },
+    "72673": {
+        "application_no": "72673",
+        "name": "MD VASANY",
+        "passport_no": "A06468330",
+        "mother_name": "SAKERA BEGUM",
+        "father_name": "MD SHAHALAL ALI",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72673.jpg"
+    },
+    "72674": {
+        "application_no": "72674",
+        "name": "MD YOUSUF ALI",
+        "passport_no": "A02341955",
+        "mother_name": "MST AKTARA BEGUM",
+        "father_name": "MD ASRAFUL HOQUE",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72674.jpg"
+    },
+    "72675": {
+        "application_no": "72675",
+        "name": "MD RAJEB ALI",
+        "passport_no": "A13494731",
+        "mother_name": "MST NILUFA BEGUM",
+        "father_name": "MD NOJRUL ISLAM",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72675.jpg"
+    },
+    "72676": {
+        "application_no": "72676",
+        "name": "MORSHALIN",
+        "passport_no": "A11653380",
+        "mother_name": "SUMAIA BEGUM",
+        "father_name": "ABDULLAH",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72676.jpg"
+    },
+    "72677": {
+        "application_no": "72677",
+        "name": "MD ASRAFUL HAQUE",
+        "passport_no": "A04496830",
+        "mother_name": "MST SALINA BEGUM",
+        "father_name": "MD REZAUL KARIM",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72677.jpg"
+    },
+    "72678": {
+        "application_no": "72678",
+        "name": "MD ABDUL BARI",
+        "passport_no": "A15479664",
+        "mother_name": "MST NARGIS BEGUM",
+        "father_name": "MD BOKUL ALI",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72678.jpg"
+    },
+    "72679": {
+        "application_no": "72679",
+        "name": "NAZMUL HODA",
+        "passport_no": "A04685110",
+        "mother_name": "SHAHIDA BEGUM",
+        "father_name": "MOJIBUR RAHMAN",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72679.jpg"
+    },
+    "72680": {
+        "application_no": "72680",
+        "name": "MASUD RANA",
+        "passport_no": "A11837747",
+        "mother_name": "ARMANI",
+        "father_name": "ABDUL BASIR",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72680.jpg"
+    },
+    "72681": {
+        "application_no": "72681",
+        "name": "RAKIB",
+        "passport_no": "A12844361",
+        "mother_name": "MST SOJEMA KHATUN",
+        "father_name": "MD ISRAIL HAQUE",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72681.jpg"
     }
 }
