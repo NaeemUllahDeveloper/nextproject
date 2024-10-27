@@ -1560,5 +1560,148 @@
         "validity_end_date": "11.12.2024",
         "approval_date": "11.10.2024",
         "img": "/72681.jpg"
+    },
+    "72682": {
+        "application_no": "72682",
+        "name": "MD MAHFUZUR RAHMAN",
+        "passport_no": "A02710409",
+        "mother_name": "MAHMUDA",
+        "father_name": "MD BALAYET",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72682.jpg"
+    },
+    "72683": {
+        "application_no": "72683",
+        "name": "SHA ALAM",
+        "passport_no": "A15762242",
+        "mother_name": "MST SUFIA BEGUM",
+        "father_name": "NUR MOHAMMAD",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72683.jpg"
+    },
+    "72684": {
+        "application_no": "72684",
+        "name": "ARIFUL HOQURE",
+        "passport_no": "A15709218",
+        "mother_name": "FATEMA",
+        "father_name": "MOZAMMEL HOQUE",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72684.jpg"
+    },
+    "72685": {
+        "application_no": "72685",
+        "name": "MD HAIRJUL",
+        "passport_no": "B00413676",
+        "mother_name": "SAJEDA",
+        "father_name": "MD RAFIQ",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72685.jpg"
+    },
+    "72686": {
+        "application_no": "72686",
+        "name": "SUJAN MAIH",
+        "passport_no": "A06773817",
+        "mother_name": "HENA AKTER",
+        "father_name": "HUMAYON KABIR",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72686.jpg"
+    },
+    "72687": {
+        "application_no": "72687",
+        "name": "GOLAM MOHAMMAD FARUK",
+        "passport_no": "A07474518",
+        "mother_name": "SALINA BEGUM",
+        "father_name": "BAREK SARDER",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72687.jpg"
+    },
+    "72688": {
+        "application_no": "72688",
+        "name": "MD RAKIB SARDER",
+        "passport_no": "A07205192",
+        "mother_name": "AKLIMA BEGUM",
+        "father_name": "MD RAFUQUL ISLAM",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72688.jpg"
+    },
+    "72689": {
+        "application_no": "72689",
+        "name": "MD AOYON MIA",
+        "passport_no": "A06993539",
+        "mother_name": "MOMTAZ BEGUM",
+        "father_name": "KHORSHED ALAM",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72689.jpg"
+    },
+    "72690": {
+        "application_no": "72690",
+        "name": "MD AMINUL ISLAM JAFOR",
+        "passport_no": "A02148258",
+        "mother_name": "SAFIA BEGUM",
+        "father_name": "MD SABUR KAZI",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72690.jpg"
+    },
+    "72691": {
+        "application_no": "72691",
+        "name": "KAYUM MOLLA",
+        "passport_no": "A02670934",
+        "mother_name": "OME KOLSOM",
+        "father_name": "ABDUL ALI",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72691.jpg"
+    },
+    "72692": {
+        "application_no": "72692",
+        "name": "MOHAMMAD JALAL HOSSAIN",
+        "passport_no": "EH0057220",
+        "mother_name": "ANOWARA BEGUM",
+        "father_name": "ANOWAR HOSSAIN",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72692.jpg"
+    },
+    "72693": {
+        "application_no": "72693",
+        "name": "MD SUMON ALI",
+        "passport_no": "A07863831",
+        "mother_name": "MST MATUARA BEGUM",
+        "father_name": "MD JULMOT ALI",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72693.jpg"
+    },
+    "72694": {
+        "application_no": "72694",
+        "name": "MD GOLAM ARIF",
+        "passport_no": "A06448701",
+        "mother_name": "MST SALEHA BEGUM",
+        "father_name": "MD SAIDUR RAHMAN",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72694.jpg"
     }
 }
