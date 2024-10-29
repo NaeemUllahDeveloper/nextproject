@@ -1835,5 +1835,27 @@
         "validity_end_date": "11.12.2024",
         "approval_date": "11.10.2024",
         "img": "/72706.jpg"
+    },
+    "72707": {
+        "application_no": "72707",
+        "name": "ABDUL RAHIM",
+        "passport_no": "A06049966",
+        "mother_name": "RABEYA BEGUM",
+        "father_name": "ALI AHAMED",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72707.jpg"
+    },
+    "72708": {
+        "application_no": "72708",
+        "name": "MD RABIUL HOSSAIN",
+        "passport_no": "A03758675",
+        "mother_name": "BULI BEGUM",
+        "father_name": "MD ABUL BASHAR",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72708.jpg"
     }
 }
