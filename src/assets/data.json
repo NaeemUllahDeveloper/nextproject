@@ -1857,5 +1857,49 @@
         "validity_end_date": "11.12.2024",
         "approval_date": "11.10.2024",
         "img": "/72708.jpg"
+    },
+    "72709": {
+        "application_no": "72709",
+        "name": "FARID MIA",
+        "passport_no": "A15355503",
+        "mother_name": "DUDH NAHAR",
+        "father_name": "GULAM RABBANI",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72709.jpg"
+    },
+    "72710": {
+        "application_no": "72710",
+        "name": "PANKAZ KANTI SARKAR",
+        "passport_no": "A00624827",
+        "mother_name": "SHEFALI KUMAR BADDYA",
+        "father_name": "LALIT KUMAR BADDYA",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72710.jpg"
+    },
+    "72711": {
+        "application_no": "72711",
+        "name": "MD JALAL AHMAD",
+        "passport_no": "A15561176",
+        "mother_name": "MST RAWSAN ARA BEGUM",
+        "father_name": "MD KUTUB UDDIN",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72711.jpg"
+    },
+    "72712": {
+        "application_no": "72712",
+        "name": "MD MAHMUD MIA",
+        "passport_no": "A04693644",
+        "mother_name": "MST RESHMA BEGUM",
+        "father_name": "MD HARUN RASHID",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72712.jpg"
     }
 }
