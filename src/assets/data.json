@@ -1901,5 +1901,60 @@
         "validity_end_date": "11.12.2024",
         "approval_date": "11.10.2024",
         "img": "/72712.jpg"
+    },
+    "72713": {
+        "application_no": "72713",
+        "name": "MD ANOWAR HOSSAIN",
+        "passport_no": "A02961013",
+        "mother_name": "MONOWARA BEGUM",
+        "father_name": "ABDUL KHALEK",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72713.jpg"
+    },
+    "72714": {
+        "application_no": "72714",
+        "name": "RAMJAN HOSSAIN RAKIB",
+        "passport_no": "A02378784",
+        "mother_name": "RASEDA BEGUM",
+        "father_name": "HAJI MOHAMMAD ABOUL BASAR MOLLAH",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72714.jpg"
+    },
+    "72715": {
+        "application_no": "72715",
+        "name": "HOSEN RANA",
+        "passport_no": "A06693654",
+        "mother_name": "NUR ASMA",
+        "father_name": "ABUL KALAM",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72715.jpg"
+    },
+    "72716": {
+        "application_no": "72716",
+        "name": "NUR HOSEN",
+        "passport_no": "A12841930",
+        "mother_name": "RAJIA BEGUM",
+        "father_name": "NOROL ISLAM",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72716.jpg"
+    },
+    "72717": {
+        "application_no": "72717",
+        "name": "SAIDUL ISLAM",
+        "passport_no": "A14809508",
+        "mother_name": "SENOARA BEGUM",
+        "father_name": "SAJID TAJUL ISLAM",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72717.jpg"
     }
 }
