@@ -1967,5 +1967,82 @@
         "validity_end_date": "11.12.2024",
         "approval_date": "11.10.2024",
         "img": "/72717.jpg"
+    },
+    "72718": {
+        "application_no": "72718",
+        "name": "IMRAN",
+        "passport_no": "QK1225281",
+        "mother_name": "BAKHAT ZARI",
+        "father_name": "ABDUL WAHAB",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72718.jpg"
+    },
+    "72719": {
+        "application_no": "72719",
+        "name": "ABDUL LATIF KHAN",
+        "passport_no": "DJ4121983",
+        "mother_name": "GULAB ZARI",
+        "father_name": "SHERAZ KHAN",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72719.jpg"
+    },
+    "72720": {
+        "application_no": "72720",
+        "name": "ABUZAR ISHTIAQ",
+        "passport_no": "QU1849441",
+        "mother_name": "FARZANA",
+        "father_name": "ISHTIAQ HUSSAIN",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72720.jpg"
+    },
+    "72721": {
+        "application_no": "72721",
+        "name": "MUNIR AHMAD",
+        "passport_no": "RM1175161",
+        "mother_name": "NEELOFAR",
+        "father_name": "MALIK NAZIR",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72721.jpg"
+    },
+    "72722": {
+        "application_no": "72722",
+        "name": "ALFARAN WARIS",
+        "passport_no": "DT6910002",
+        "mother_name": "YASMEEN BIBI",
+        "father_name": "WARIS ALI",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72722.jpg"
+    },
+    "72723": {
+        "application_no": "72723",
+        "name": "FAWAD KHAN",
+        "passport_no": "HM4161981",
+        "mother_name": "SABIA BIBI",
+        "father_name": "MUHAMMAD HUMAYUN",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72723.jpg"
+    },
+    "72724": {
+        "application_no": "72724",
+        "name": "MUJAHID AKHTAR",
+        "passport_no": "LJ1341402",
+        "mother_name": "IMTIAZ BEGUM",
+        "father_name": "PARVEZ AKHTAR",
+        "validity_start_date": "12.11.2024",
+        "validity_end_date": "11.12.2024",
+        "approval_date": "11.10.2024",
+        "img": "/72724.jpg"
     }
 }
